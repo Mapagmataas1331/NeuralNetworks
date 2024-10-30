@@ -1,4 +1,4 @@
-namespace MyKaggleNeuralNetworkProject
+﻿namespace NeuralNetworks
 {
   public class Topology
   {
